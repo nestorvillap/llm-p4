@@ -36,7 +36,7 @@ Hemos usado 10 fuentes de datos diferentes:
 #### 3 - [Kaggle mails](https://www.kaggle.com/datasets/venky73/spam-mails-dataset)
 #### 4 - [Hugging face](https://huggingface.co/datasets/Deysi/spam-detection-dataset)
 #### 5 - [Datacamp](https://www.datacamp.com/datalab/datasets/dataset-r-sms-spam-collection)
-#### 6 - [Spamassassin](https://spamassassin.apache.org/old/publiccorpus/)
+#### 6 - [Spamassassin](https://www.kaggle.com/datasets/ozlerhakan/spam-or-not-spam-dataset/)
 #### 7 - [Ling-Spam Dataset](https://www.kaggle.com/datasets/mandygu/lingspam-dataset)
 #### 8 - [Spam and Ham Classification Balanced Dataset](https://www.kaggle.com/datasets/zubairmustafa/spam-and-ham-classification-balanced-dataset)
 #### 9 - [YouTube Spam Collection Data Set, Eminem](https://www.kaggle.com/datasets/lakshmi25npathi/images)
