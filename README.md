@@ -1,11 +1,5 @@
 # Practica LLM
 
-Informacion temporal para el desarrollo:
-
-Aqui hay muchos datasets recogidos
-
-https://huggingface.co/datasets/intelli-zen/spam_detect
-
 ## Integrantes del grupo:
 - David Gil Vacas
 - Nicolas Fernadez
