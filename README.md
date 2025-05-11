@@ -17,6 +17,7 @@ https://huggingface.co/datasets/intelli-zen/spam_detect
 - **pandas**: Para cargar los datasets, y para analizar las respuestas de la ia.
 - **time**: Lo usamos para un sleep por si acaso las APIS publicas nos banean.
 - **re**: Usamos regex, para formatear la respuesta de la IA
+- **pyarrow**: Usamos pyarrow para la lectura de parquet
 
 ## APIS / MODELOS USADOS:
 
